@@ -63,7 +63,9 @@ cargo build
 
 ## run
 
-``cargo run
+cargo run
+
+```
 
 ### Development status
 
@@ -77,41 +79,41 @@ cargo build
 ### Unimplemented
 
 1. Shell Functions
-- [] Tab completion
-- [] Piping of commands
-- [] Input/output redirection
-- [] Editing input with cursor keys
-- [] Alias setting for commands
+- [ ] Tab completion
+- [ ] Piping of commands
+- [ ] Input/output redirection
+- [ ] Editing input with cursor keys
+- [ ] Alias setting for commands
 2. File system
-- [] Reading file contents (cat command)
-- [] Deleting files (rm command)
-- [] Moving/renaming files (mv command)
-- [] Managing file permissions
-- [] File system persistence
+- [ ] Reading file contents (cat command)
+- [ ] Deleting files (rm command)
+- [ ] Moving/renaming files (mv command)
+- [ ] Managing file permissions
+- [ ] File system persistence
 3.  Process management
-- [] Process Creation and Execution
-- [] Interprocess Communication
-- [] Background Execution
-- [] Job Control
+- [ ] Process Creation and Execution
+- [ ] Interprocess Communication
+- [ ] Background Execution
+- [ ] Job Control
 4.  Memory management
-- [] Swap space management
-- [] Memory fragmentation prevention
-- [] Virtual memory expansion
+- [ ] Swap space management
+- [ ] Memory fragmentation prevention
+- [ ] Virtual memory expansion
 5.  Device management
-- [] Serial port communication
-- [] Mouse drivers
-- [] Network functions
-- [] Sound functions
+- [ ] Serial port communication
+- [ ] Mouse drivers
+- [ ] Network functions
+- [ ] Sound functions
 6.  System Management
-- [] User Management
-- [] Log function
-- [] Save/Load system settings
-- [] Improved shutdown handling
+- [ ] User Management
+- [ ] Log function
+- [ ] Save/Load system settings
+- [ ] Improved shutdown handling
 7.  Testing
-- [] Expanded unit testing
-- [] Additional integration testing
-- [] Performance testing
+- [ ] Expanded unit testing
+- [ ] Additional integration testing
+- [ ] Performance testing
 8. Security
-- [] Access Control
-- [] Memory Protection
-- [] System Call Restrictions
+- [ ] Access Control
+- [ ] Memory Protection
+- [ ] System Call Restrictions
